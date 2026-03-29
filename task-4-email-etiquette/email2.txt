@@ -1,0 +1,22 @@
+Email 2: Summer Internship Interest
+
+Subject: Summer Internship Inquiry - Cybersecurity & AI Engineering - Prince (25bcy10205)
+
+Dear Internship Coordinator,
+
+I hope you are having a good week.
+
+I am writing to express my strong interest in joining your team as a summer intern. I am currently a B.Tech CSE student at VIT Bhopal, with a deep focus on cybersecurity, network forensics, and artificial intelligence.
+
+Over the past year, I have focused heavily on practical, hands-on development. I recently built a full-stack network reconnaissance dashboard using a React frontend and a Python backend, orchestrated by a custom AI agent. I am highly comfortable operating in Linux environments and utilizing tools like Nmap and Aircrack-ng for security assessments.
+
+I admire your company's commitment to secure infrastructure, and I am eager to bring my technical skills and enthusiasm to your team this summer. I have attached my resume and a link to my GitHub repository featuring my recent projects.
+
+Thank you for your time and consideration. I would welcome the opportunity to discuss how my background aligns with your team's goals.
+
+Best regards,
+
+Prince Tiwari
+B.Tech CSE, Reg No: 25bcy10205
+VIT Bhopal
+[Link to GitHub]:https://github.com/brahmanprince
