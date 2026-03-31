@@ -8,7 +8,7 @@
 * **Course:** CSE0001 - Digital Literacy
 
 ## 🌐 Project Overview
-[cite_start]This repository serves as my comprehensive Digital Literacy Portfolio, created as part of my role as a Student Digital Ambassador[cite: 4, 6]. [cite_start]The objective of this project is to demonstrate practical competency in navigating the digital world securely and professionally[cite: 5]. [cite_start]This repository houses all deliverables across five core modules, ranging from establishing a professional developer presence and utilizing collaboration tools to analyzing cybersecurity threats and advocating for digital safety[cite: 7, 14].
+This repository serves as my comprehensive Digital Literacy Portfolio, created as part of my role as a Student Digital Ambassador[cite: 4, 6]. [cite_start]The objective of this project is to demonstrate practical competency in navigating the digital world securely and professionally[cite: 5]. [cite_start]This repository houses all deliverables across five core modules, ranging from establishing a professional developer presence and utilizing collaboration tools to analyzing cybersecurity threats and advocating for digital safety[cite: 7, 14].
 
 ## 📂 Repository Structure
 This repository is organized into specific folders corresponding to the project deliverables:
